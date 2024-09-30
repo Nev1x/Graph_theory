@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/aleksandrkogalenok/projects/main1/cmake-build-debug"
+			"value" : "/Users/aleksandrkogalenok/Projects/main1/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/aleksandrkogalenok/projects/main1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/aleksandrkogalenok/Projects/main1/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/aleksandrkogalenok/projects/main1/cmake-build-debug"
+			"value" : "/Users/aleksandrkogalenok/Projects/main1/cmake-build-debug"
 		},
 		{
 			"name" : "main1_IS_TOP_LEVEL",
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/aleksandrkogalenok/projects/main1"
+			"value" : "/Users/aleksandrkogalenok/Projects/main1"
 		}
 	],
 	"kind" : "cache",
